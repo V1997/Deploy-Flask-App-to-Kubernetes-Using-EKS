@@ -1,6 +1,6 @@
 # Deploying a Flask API
 
-External Ip (ELB Url): 10.100.0.1
+External Ip (ELB Url): aa675078ce65646e78ee90e9a8491049-1628140494.us-west-2.elb.amazonaws.com
 
 This is the project starter repo for the fourth course in the [Udacity Full Stack Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004): Server Deployment, Containerization, and Testing.
 
